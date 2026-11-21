@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Spec Kit Constitution icon</title>
+  <desc id="desc">A paper document with five checkmarks and a small spark.</desc>
+  <rect x="5" y="5" width="150" height="150" rx="42" fill="#243a5e"/>
+  <path d="M47 32h55l15 15v75a9 9 0 0 1-9 9H47a9 9 0 0 1-9-9V41a9 9 0 0 1 9-9Z" fill="#fffaf0"/>
+  <path d="M102 32v15h15" fill="#d8e8e2"/>
+  <g fill="none" stroke="#278475" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5">
+    <path d="m51 58 3 3 6-7M51 71l3 3 6-7M51 84l3 3 6-7M51 97l3 3 6-7M51 110l3 3 6-7"/>
+  </g>
+  <g stroke="#aab8c1" stroke-linecap="round" stroke-width="3.5">
+    <path d="M70 58h29M70 71h29M70 84h29M70 97h29M70 110h21"/>
+  </g>
+  <path d="M126 19c1.5 7 4.5 10 11 11.5-6.5 1.5-9.5 4.5-11 11.5-1.5-7-4.5-10-11-11.5 6.5-1.5 9.5-4.5 11-11.5Z" fill="#f8c76a"/>
+</svg>
